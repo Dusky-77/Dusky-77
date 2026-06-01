@@ -1,6 +1,6 @@
 # Hi there, I'm Dusky! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I am a developer specializing in advanced backend automation, complex Discord bot infrastructure, and multi-platform integrations. I love bridging ecosystems together—specifically tying Discord, Roblox, and Web systems into seamless, high-performance setups.
+I am a developer specializing in advanced backend automation, complex Discord bot infrastructure, and multi-platform integrations. I love building systems together specifically tying Discord, Roblox, and Web systems into setups.
 
 ---
 
@@ -8,7 +8,7 @@ I am a developer specializing in advanced backend automation, complex Discord bo
 
 * **Core Languages:** Python (Main), TypeScript, JavaScript, SQL, HTML/CSS
 * **Frameworks & Databases:** Node.js, React, PostgreSQL
-* **Specialties:** High-interaction Discord Bots, Cross-Platform API Integration (Discord ⇄ Roblox ⇄ Web)
+* **Specialties:** High-interaction Discord Bots, Cross-Platform API Integration (Discord ⇄ Roblox ⇄ Web, and more)
 * **Future Targets:** Deepening my knowledge in Java, exploring the C-family languages, and expanding frontend mastery
 
 ---
