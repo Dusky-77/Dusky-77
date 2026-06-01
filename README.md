@@ -13,15 +13,13 @@ I am a developer specializing in advanced backend automation, complex Discord bo
 
 ---
 
-### 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dusky-77&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusky-77&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dusky-77&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff007f&text_color=ffffff&icon_color=00ffcc&border_color=00ffcc&hide_border=false" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusky-77&layout=compact&bg_color=0d1117&title_color=ff007f&text_color=ffffff&border_color=00ffcc&hide_border=false" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dusky-77&currStreakNum=ff007f&sideNums=ffffff&sideLabels=00ffcc&dates=ffffff&bg_color=0d1117&title=ff007f&stroke=00ffcc&header=ff007f&border=00ffcc&hide_border=false" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
