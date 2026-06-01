@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00e5ff" alt="NumPy" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PyTest-0b0a12?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="PyTest" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/API%2FAuth-ff007f?style=for-the-badge&logo=fastapi&logoColor=white" alt="API/Auth" />
@@ -59,15 +58,15 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-
 ---
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Stats & Activity
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dusky-77&theme=black-ice&background=0b0a12&stroke=ff007f&ring=9d4edd&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=9d4edd&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dusky-77&background=135,0b0a12,9d4edd,ff007f,ff0055&stroke=ff007f&ring=00e5ff&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=9d4edd&hide_border=false)
 
 ---
 
