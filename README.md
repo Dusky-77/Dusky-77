@@ -14,12 +14,12 @@ I am a developer specializing in advanced backend automation, complex Discord bo
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dusky-77&show_icons=true&count_private=true&bg_color=0d1117&title_color=ff007f&text_color=ffffff&icon_color=00ffcc&border_color=00ffcc&hide_border=false" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusky-77&layout=compact&bg_color=0d1117&title_color=ff007f&text_color=ffffff&border_color=00ffcc&hide_border=false" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dusky-77&show_icons=true&count_private=true&bg_color=09090b&title_color=9d4edd&text_color=ffffff&icon_color=ffee32&border_color=ff007f&hide_border=false" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusky-77&layout=compact&bg_color=09090b&title_color=9d4edd&text_color=ffffff&border_color=ff007f&hide_border=false" alt="Top Languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dusky-77&currStreakNum=ff007f&sideNums=ffffff&sideLabels=00ffcc&dates=ffffff&bg_color=0d1117&title=ff007f&stroke=00ffcc&header=ff007f&border=00ffcc&hide_border=false" alt="GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dusky-77&currStreakNum=ff0055&sideNums=ffffff&sideLabels=ffee32&dates=ffffff&bg_color=09090b&title=9d4edd&stroke=ff0055&header=9d4edd&border=ff007f&hide_border=false" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
