@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dusky-77&style=flat-square&color=ff007f" alt="System Traffic" />
+  <img src="https://komarev.com/ghpvc/?username=Dusky-77&style=flat-square&color=ff007f" alt="Profile Views" />
 </div>
 
 <br>
+
 <div align="center">
   <h1>Hi, I am Dusky</h1>
-  <h3>I build automation tools, complex backend integrations.</h3>
+  <h3>I build automation tools, backend systems, and complex integrations.</h3>
 </div>
+
 <br>
 
 <div align="left">
-  Writing code and things since 2023. I focus heavily on writing logic for backend tools, maintaining cross-platform infrastructure, and full-stack web tools whenever a project needs a dashboard.
+  Writing code and building systems since 2023. I focus on backend logic, cross-platform infrastructure, API integrations, and full-stack tools whenever a project needs a dashboard.
 </div>
 
 ---
@@ -26,21 +28,28 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="20" height="20"> Frameworks & Databases
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="20" height="20"> Frameworks & Libraries
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=ff007f" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-0b0a12?style=for-the-badge&logo=fastapi&logoColor=00e5ff" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-0b0a12?style=for-the-badge&logo=flask&logoColor=ffffff" alt="Flask" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Pillow-0b0a12?style=for-the-badge&logo=python&logoColor=ff007f" alt="Pillow" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00e5ff" alt="NumPy" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" height="20"> Platforms & Ecosystems
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" height="20"> Platforms & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API" />
-  <img src="https://img.shields.io/badge/Roblox_OpenCloud-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox OpenCloud" />
-  <img src="https://img.shields.io/badge/Minecraft-141414?style=for-the-badge&logo=minecraft&logoColor=red" alt="Minecraft" />
-  <img src="https://img.shields.io/badge/Fabric-312111?style=for-the-badge&logo=modrinth&logoColor=00e5ff" alt="Fabric Modding" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+  <img src="https://img.shields.io/badge/Websites-00e5ff?style=for-the-badge&logo=googlechrome&logoColor=0b0a12" alt="Websites" />
+  <img src="https://img.shields.io/badge/APIs-ff007f?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs" />
+  <img src="https://img.shields.io/badge/GitHub-0b0a12?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office" />
 </p>
 
 ---
@@ -48,23 +57,20 @@
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Stats & Activity
 
 <div align="center">
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dusky-77&theme=black-ice&background=0b0a12&border=ff007f&stroke=00e5ff&ring=9d4edd&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00e5ff&dates=9d4edd&hide_border=false&v=dusky_orbs" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dusky-77&theme=black-ice&background=0b0a12&border=ff007f&stroke=00e5ff&ring=9d4edd&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00e5ff&dates=9d4edd&hide_border=false" alt="GitHub Streak" />
 
   <br><br>
 
-  <!-- GitHub Metrics Graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Dusky-77&show_icons=true&count_private=true&theme=tokyonight&bg_color=0b0a12&title_color=9d4edd&text_color=ffffff&icon_color=00e5ff&border_color=ff007f&hide_border=false&v=dusky_orbs" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dusky-77&show_icons=true&count_private=true&theme=tokyonight&bg_color=0b0a12&title_color=9d4edd&text_color=ffffff&icon_color=00e5ff&border_color=ff007f&hide_border=false" height="150" alt="GitHub Stats" />
 
-  <!-- Top Languages Graph -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusky-77&layout=compact&theme=tokyonight&bg_color=0b0a12&title_color=9d4edd&text_color=ffffff&border_color=ff007f&hide_border=false&v=dusky_orbs" height="150" alt="languages graph" />
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusky-77&layout=compact&theme=tokyonight&bg_color=0b0a12&title_color=9d4edd&text_color=ffffff&border_color=ff007f&hide_border=false" height="150" alt="Top Languages" />
 </div>
+
+---
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20"> Find Me Online
 
-My Discord server serves as my main hub and running portfolio. Hit me up if you want to look over some code or collaborate on a project.
+My Discord server is my main hub and portfolio. It is the best place to reach me about code, collaboration, or tooling work.
 
 <p align="left">
   <a href="https://discord.com/invite/guwcqJXRW2">
@@ -74,3 +80,22 @@ My Discord server serves as my main hub and running portfolio. Hit me up if you 
     <img src="https://img.shields.io/badge/CODE-Direct%20Line-ff007f?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Direct Message" />
   </a>
 </p>
+
+---
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/wand-magic-sparkles.svg" width="20" height="20"> What I'm Working On
+
+- Sailor Piece automation and account logic.
+- Cross-platform API bridges and webhook pipelines.
+- Discord bot systems with role sync, logging, and real-time updates.
+- Backend dashboards for monitoring, control, and debugging.
+- Automation tooling for internal workflows and external integrations.
+
+---
+
+### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bolt.svg" width="20" height="20"> Extra Info
+
+- I care about clean architecture and reliable error handling.
+- I prefer building systems that are easy to maintain and extend.
+- I like tooling that works across platforms without breaking edge cases.
+- Most of my projects are centered around automation, APIs, and infrastructure.
