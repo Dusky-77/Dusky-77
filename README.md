@@ -69,9 +69,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dusky-77&theme=black-ice&background=0b0a12&border=ff007f&stroke=00e5ff&ring=9d4edd&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00e5ff&dates=9d4edd&hide_border=false)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dusky-77&show_icons=true&count_private=true&theme=tokyonight&bg_color=0b0a12&title_color=9d4edd&text_color=ffffff&icon_color=00e5ff&border_color=ff007f&hide_border=false" height="150" alt="stats graph" />
+<img src="https://github-readme-stats-rhythm.vercel.app/api?username=SandeepVashishtha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusky-77&layout=compact&theme=tokyonight&bg_color=0b0a12&title_color=9d4edd&text_color=ffffff&border_color=ff007f&hide_border=false" height="150" alt="languages graph" />
+<img src="https://github-readme-stats-rhythm.vercel.app/api/top-langs?username=SandeepVashishtha&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ---
