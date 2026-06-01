@@ -37,6 +37,15 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Pillow-0b0a12?style=for-the-badge&logo=python&logoColor=ff007f" alt="Pillow" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00e5ff" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PyTest-0b0a12?style=for-the-badge&logo=pytest&logoColor=0A9EDC" alt="PyTest" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/API%2FAuth-ff007f?style=for-the-badge&logo=fastapi&logoColor=white" alt="API/Auth" />
+  <img src="https://img.shields.io/badge/OAuth2%20%26%20REST%20(Postman)-0b0a12?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="OAuth2 REST Postman" />
+  <img src="https://img.shields.io/badge/CI%2FCD%20%26%20GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" height="20"> Platforms & Tools
@@ -57,13 +66,12 @@
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dusky-77&theme=black-ice&background=0b0a12&border=ff007f&stroke=00e5ff&ring=9d4edd&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&sideLabels=00e5ff&dates=9d4edd&hide_border=false" alt="GitHub Streak" />
 
-  <br><br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dusky-77&theme=dracula)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Dusky-77&show_icons=true&count_private=true&theme=tokyonight&bg_color=0b0a12&title_color=9d4edd&text_color=ffffff&icon_color=00e5ff&border_color=ff007f&hide_border=false" height="150" alt="GitHub Stats" />
+<img src="https://github-readme-stats-rhythm.vercel.app/api?username=Dusky-77&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dusky-77&layout=compact&theme=tokyonight&bg_color=0b0a12&title_color=9d4edd&text_color=ffffff&border_color=ff007f&hide_border=false" height="150" alt="Top Languages" />
+<img src="https://github-readme-stats-rhythm.vercel.app/api/top-langs?username=Dusky-77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ---
@@ -80,22 +88,3 @@ My Discord server is my main hub and portfolio. It is the best place to reach me
     <img src="https://img.shields.io/badge/CODE-Direct%20Line-ff007f?style=for-the-badge&logo=discord&logoColor=white" height="40" alt="Direct Message" />
   </a>
 </p>
-
----
-
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/wand-magic-sparkles.svg" width="20" height="20"> What I'm Working On
-
-- Sailor Piece automation and account logic.
-- Cross-platform API bridges and webhook pipelines.
-- Discord bot systems with role sync, logging, and real-time updates.
-- Backend dashboards for monitoring, control, and debugging.
-- Automation tooling for internal workflows and external integrations.
-
----
-
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/bolt.svg" width="20" height="20"> Extra Info
-
-- I care about clean architecture and reliable error handling.
-- I prefer building systems that are easy to maintain and extend.
-- I like tooling that works across platforms without breaking edge cases.
-- Most of my projects are centered around automation, APIs, and infrastructure.
