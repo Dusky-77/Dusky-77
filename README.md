@@ -67,7 +67,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats-ashen-six.vercel.app?user=Dusky-77&theme=rust-ferris-dark&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-ashen-six.vercel.app?user=Dusky-77&theme=rust-ferris-dark&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=300)](https://git.io/streak-stats)
 
 ---
 
