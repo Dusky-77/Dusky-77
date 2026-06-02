@@ -65,7 +65,9 @@
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Stats & Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&date_format=j%20M%5B%20Y%5D)
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats-ashen-six.vercel.app?user=Dusky-77&theme=rust-ferris-dark&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
