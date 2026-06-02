@@ -67,7 +67,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dusky-77&theme=neon-dark&background=0b0a12&border=ff007f&stroke=ff007f&ring=00e5ff&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=9d4edd&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dusky-77&background=0b0a12&border=ff007f&stroke=ff007f&ring=00e5ff&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=9d4edd&hide_border=false)
 
 ---
 
