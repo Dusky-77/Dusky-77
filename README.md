@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dusky-77&theme=neon-dark&background=0b0a12&border=ff007f&stroke=ff007f&ring=00e5ff&fire=ff0055&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=9d4edd&hide_border=false)
 
 ---
 
