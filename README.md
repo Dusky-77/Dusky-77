@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h1>Hi, I am Dusky!</h1>
+  <h1>Hi, I am Dusky!!</h1>
   <h3>I build automation tools, backend systems, and complex integrations.</h3>
 </div>
 
