@@ -95,9 +95,9 @@ My Discord server is my main hub and portfolio. It is the best place to reach me
 
 <p align="left">
   <a href="https://discord.com/invite/guwcqJXRW2">
-    <img src="https://img.shields.io/badge/DUSKY-Ecosystem%20Access-00e5ff?style=plastic&logo=discord&logoColor=0b0a12" height="40" alt="Join Server" />
+    <img src="https://img.shields.io/badge/DUSKY-Ecosystem%20Access-00e5ff?style=flat&logo=discord&logoColor=0b0a12" height="40" alt="Join Server" />
   </a>
   <a href="https://discord.com/users/751832676142678140">
-    <img src="https://img.shields.io/badge/CODE-Direct%20Line-ff007f?style=plastic&logo=discord&logoColor=white" height="40" alt="Direct Message" />
+    <img src="https://img.shields.io/badge/CODE-Direct%20Line-ff007f?style=flat&logo=discord&logoColor=white" height="40" alt="Direct Message" />
   </a>
 </p>
