@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Dusky-77&style=flat-square&color=ff007f" alt="Profile Views" />
 </div>
 
+<div align="center">
+  <h1 style="color: #ffffff;">Dusky!!</h1>
+</div>
+
 <br>
 
 <div align="center">
