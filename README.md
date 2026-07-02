@@ -5,8 +5,7 @@
 <br>
 
 <div align="center">
-  <h1>Hi, I am Dusky!!</h1>
-  <h3>I build automation tools, backend systems, and complex integrations.</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=600&pause=1000&color=F75C00&vCenter=true&random=true&width=435&lines=Building+backends%2C+custom+automations%2C+and+deep+integrations.;I+engineer+backend+systems+and+automated+pipelines.;I+engineer+backend+systems+and+automated+pipelines.;I+engineer+backend+systems+and+automated+pipelines.;I+build+the+backend+engines+and+automations."/>
 </div>
 
 <br>
