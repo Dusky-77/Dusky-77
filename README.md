@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1 style="color: #ffffff;">Dusky!!</h1>
+  <h1 style="color: #ffffff;">Hi, I am Dusky!! a developer</h1>
 </div>
 
 <br>
