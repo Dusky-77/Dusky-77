@@ -84,14 +84,14 @@
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Stats & Activity
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr valign="center">
-      <td>
+  <table style="border-style: none; border-color: transparent; background: transparent;">
+    <tr style="border-style: none; background: transparent;">
+      <td style="border-style: none; background: transparent; padding: 0;">
         <img src="https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" height="320"/>
       </td>
-      <td width="20"></td>
-      <td>
-        <img src="https://ghstats.dev/api/card?username=Dusky-77&bg=000000&title_color=f49600&icon_color=f66200&hide_border=true&border_radius=50&hide=streak%2Cgrade%2Cfollowers%2Cstars" height="320"/>
+      <td width="20" style="border-style: none; background: transparent; padding: 0;"></td>
+      <td style="border-style: none; background: transparent; padding: 0;">
+        <img src="https://ghstats.dev/api/card?username=Dusky-77&bg=000000&title_color=f49600&icon_color=f66200&hide_border=true&border_radius=0&hide=streak%2Cgrade%2Cfollowers%2Cstars" height="320"/>
       </td>
     </tr>
   </table>
