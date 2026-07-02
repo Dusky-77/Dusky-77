@@ -84,13 +84,13 @@
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" width="65%"/>
+  <img src="https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" width="55%"/>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Profile Stats:
 
 <div align="center">
-  <img src="https://ghstats.dev/api/card?username=Dusky-77&bg=000000&title_color=f49600&icon_color=f66200&hide_border=true&border_radius=50&hide=streak,grade,followers,stars,contributions" width="65%"/>
+  <img src="https://ghstats.dev/api/card?username=Dusky-77&bg=000000&title_color=f49600&icon_color=f66200&hide_border=true&border_radius=50&hide=streak,grade,followers,stars,contributions" width="55%"/>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Activity Graph:
