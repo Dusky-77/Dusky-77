@@ -81,7 +81,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Activity
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Consistency Metrics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" width="60%"/>
