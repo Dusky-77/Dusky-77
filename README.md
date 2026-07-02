@@ -81,12 +81,17 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Stats & Activity
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Stats & Activity
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats-ashen-six.vercel.app?user=Dusky-77&theme=rust-ferris-dark&hide_border=true&border_radius=50&date_format=M%20j%5B%2C%20Y%5D&card_width=700&card_height=300)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true)](https://git.io/streak-stats)
+</div>
 
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Activity Graph:
+
+<div align="center">
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dusky-77&bg_color=000000&color=f49600&line=cc3a00&point=f49600&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
 
