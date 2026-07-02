@@ -93,6 +93,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dusky-77&bg_color=000000&color=f49600&line=cc3a00&point=f49600&area=true&hide_border=true" width="100%"/>
 </div>
 
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Activity Graph:
+
+<div align="center">
+  <img src="https://ghstats.dev/api/card?username=Dusky-77&theme=rust-ferris-dark&hide_border=true&border_radius=50&hide=streak%2Cgrade%2Cfollowers%2Cstars" width="100%"/>
+</div>
+  
 ---
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/link.svg" width="20" height="20"> Find Me Online
