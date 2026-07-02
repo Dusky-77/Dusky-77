@@ -84,8 +84,17 @@
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> My Stats & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" height="300"/>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://ghstats.dev/api/card?username=Dusky-77&bg=000000&title_color=f49600&icon_color=f66200&hide_border=true&border_radius=50&hide=streak%2Cgrade%2Cfollowers%2Cstars" height="300"/>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr valign="center">
+      <td>
+        <img src="https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" height="320"/>
+      </td>
+      <td width="20"></td>
+      <td>
+        <img src="https://ghstats.dev/api/card?username=Dusky-77&bg=000000&title_color=f49600&icon_color=f66200&hide_border=true&border_radius=50&hide=streak%2Cgrade%2Cfollowers%2Cstars" height="320"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Activity Graph:
