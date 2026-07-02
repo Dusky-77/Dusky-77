@@ -89,7 +89,7 @@
       <td>
         <img src="https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" height="195"/>
       </td>
-      <td width="20"></td>
+      <td width="40"></td>
       <td>
         <img src="https://ghstats.dev/api/card?username=Dusky-77&bg=000000&title_color=f49600&icon_color=f66200&hide_border=true&border_radius=50&hide=streak%2Cgrade%2Cfollowers%2Cstars" height="195"/>
       </td>
