@@ -5,14 +5,10 @@
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=600&pause=1000&color=F75C00&vCenter=true&random=true&width=435&lines=Building+backends%2C+custom+automations%2C+and+deep+integrations.;I+engineer+backend+systems+and+automated+pipelines.;I+engineer+backend+systems+and+automated+pipelines.;I+engineer+backend+systems+and+automated+pipelines.;I+build+the+backend+engines+and+automations."/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&pause=1000&color=F75C00&vCenter=true&random=true&width=435&lines=Building+backends+and+custom+automations.;I+build+backends%2C+automations%2C+and+integrations.;Backend+systems+and+custom+automation+tools.;Engineering+backends+and+automated+systems." alt="Typing SVG" /></a>
 </div>
 
 <br>
-
-<div align="left">
-  Writing code and building systems since 2023. I focus on backend logic, cross-platform infrastructure, API integrations, and full-stack tools whenever a project needs a dashboard.
-</div>
 
 ---
 
