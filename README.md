@@ -29,7 +29,7 @@
 </p>
 
 <div align="center">
-  <img src="https://ghstats.dev/api/langs?username=Dusky-77&hide_border=true&hide_title=true&max_langs=12&layout=horizontal_list&bg=000000&title_color=f49600&icon_color=f66200" width="55%"/>
+  <img src="https://ghstats.dev/api/langs?username=Dusky-77&hide_border=true&hide_title=true&max_langs=12&layout=horizontal_list" width="55%"/>
 </div>
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="20" height="20"> Frameworks & Libraries
