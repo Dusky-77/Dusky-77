@@ -36,52 +36,22 @@
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="20" height="20"> Frameworks & Libraries
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-0b0a12?style=plastic&logo=fastapi&logoColor=00e5ff" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-0b0a12?style=plastic&logo=flask&logoColor=ffffff" alt="Flask" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=plastic&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Pillow-0b0a12?style=plastic&logo=python&logoColor=ff007f" alt="Pillow" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=00e5ff" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwindcss&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/PyTest-0b0a12?style=plastic&logo=pytest&logoColor=0A9EDC" alt="PyTest" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=plastic&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/API%2FAuth-ff007f?style=plastic&logo=fastapi&logoColor=white" alt="API/Auth" />
-  <img src="https://img.shields.io/badge/OAuth2%20%26%20REST%20(Postman)-0b0a12?style=plastic&logo=postman&logoColor=FF6C37" alt="OAuth2 REST Postman" />
-  <img src="https://img.shields.io/badge/CI%2FCD%20%26%20GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white" alt="CI/CD GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,python,numpy,bootstrap,tailwind,pytest,graphql,postman,githubactions,vite" alt="Frameworks & Tools" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" height="20"> Platforms, DevTools & Infrastructure
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,bash,r,git,mysql,mongodb,discordbots,nodejs,express,vscode,idea,cloudflare,vercel,replit"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/GitHub-0b0a12?style=plastic&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=plastic&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Nvidia-76B900?style=plastic&logo=nvidia&logoColor=white" alt="Nvidia" />
-  <img src="https://img.shields.io/badge/Websites-00e5ff?style=plastic&logo=googlechrome&logoColor=0b0a12" alt="Websites" />
-  <img src="https://img.shields.io/badge/APIs-ff007f?style=plastic&logo=fastapi&logoColor=white" alt="APIs" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cloudflare,github,vscode,vercel,mysql" alt="Platforms & DevTools" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gamepad.svg" width="20" height="20"> Gaming & Distribution Ecosystems
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Steam-000000?style=plastic&logo=steam&logoColor=white" alt="Steam" />
-  <img src="https://img.shields.io/badge/Epic_Games-313131?style=plastic&logo=epicgames&logoColor=white" alt="Epic Games" />
-  <img src="https://img.shields.io/badge/Riot_Games-EB0029?style=plastic&logo=riotgames&logoColor=white" alt="Riot Games" />
-  <img src="https://img.shields.io/badge/Roblox-000000?style=plastic&logo=roblox&logoColor=white" alt="Roblox" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://skillicons.dev/icons?i=discord" alt="Gaming & Ecosystems" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/palette.svg" width="20" height="20"> Software, Design & Productivity
-
 <p align="left">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=plastic&logo=microsoftoffice&logoColor=white" alt="MS Office" />
+  <img src="https://skillicons.dev/icons?i=canva" alt="Design & Productivity" />
 </p>
 
 ---
