@@ -31,6 +31,8 @@
   <img src="https://img.shields.io/badge/Go-00a7d0?style=for-the-badge&logo=go&logoColor=black" alt="Go" />
 </p>
 
+<img src="https://ghstats.dev/api/langs?username=Dusky-77&hide_border=true&hide_title=true&max_langs=12&layout=horizontal_list" width="60%"/>
+
 ### Frameworks & Libraries
 
 <p>
