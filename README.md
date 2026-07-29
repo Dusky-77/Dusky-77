@@ -36,6 +36,7 @@
 ### Frameworks & Libraries
 
 <p>
+  <img src="https://img.shields.io/badge/NodeJS-58a745?style=for-the-badge&logo=nodejs&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -75,7 +76,7 @@
 ### Gaming & Distribution Ecosystems
 
 <p>
-  <img src="https://img.shields.io/badge/Minecraft-2E7D32?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft" />
+  <img src="https://img.shields.io/badge/Minecraft-2E7D32?style=for-the-badge&logo=mc&logoColor=white" alt="Minecraft" />
   <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
   <img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" alt="Epic Games" />
