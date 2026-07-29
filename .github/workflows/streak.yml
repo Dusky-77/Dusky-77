@@ -1,0 +1,18 @@
+name: Update Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: DenverCoder1/github-readme-streak-stats-action@v1.7.0
+        with:
+          user: Dusky-77
+          theme: rust-ferris-dark
+          hide_border: "true"
+          output_filename: streak.svg
