@@ -29,29 +29,48 @@
   <img src="https://img.shields.io/badge/Go-00a7d0?style=for-the-badge&logo=go&logoColor=black" alt="Go" />
 </p>
 
-<div align="center">
-  <img src="https://ghstats.dev/api/langs?username=Dusky-77&hide_border=true&hide_title=true&max_langs=12&layout=horizontal_list" width="60%"/>
-</div>
-
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/database.svg" width="20" height="20"> Frameworks & Libraries
-
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,python,numpy,bootstrap,tailwind,pytest,graphql,postman,githubactions,vite" alt="Frameworks & Tools" />
+  <strong>Frameworks & Libraries:</strong><br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pillow-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?style=flat&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/API_Auth-FF4081?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" height="20"> Platforms, DevTools & Infrastructure
+### Platforms, DevTools & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cloudflare,github,vscode,vercel,mysql" alt="Platforms & DevTools" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat&logo=windowsterminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nvidia-76B900?style=flat&logo=nvidia&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gamepad.svg" width="20" height="20"> Gaming & Distribution Ecosystems
+### Gaming & Distribution Ecosystems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Gaming & Ecosystems" />
+  <img src="https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Epic_Games-313131?style=flat&logo=epicgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Riot_Games-EB0029?style=flat&logo=riotgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
 </p>
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/palette.svg" width="20" height="20"> Software, Design & Productivity
+### Software, Design & Productivity
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=canva" alt="Design & Productivity" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat&logo=microsoftoffice&logoColor=white" />
 </p>
 
 ---
