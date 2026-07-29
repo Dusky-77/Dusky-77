@@ -12,9 +12,15 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - uses: DenverCoder1/github-readme-streak-stats-action@v1.7.0
-        with:
-          user: Dusky-77
-          theme: rust-ferris-dark
-          hide_border: "true"
-          output_filename: streak.svg
+
+      - name: Fetch Streak SVG
+        run: |
+          curl -s "https://github-readme-streak-stats.herokuapp.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" -o streak.svg
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add streak.svg
+          git diff --staged --quiet || git commit -m "Update streak stats SVG"
+          git push
