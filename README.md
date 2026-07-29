@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
   <img src="https://img.shields.io/badge/Windsurf-0052CC?style=for-the-badge&logo=codeium&logoColor=white" alt="Windsurf" />
-  <img src="https://img.shields.io/badge/Cline-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cline" />
+  <img src="https://img.shields.io/badge/Cline-181717?style=for-the-badge&logo=githubactions&logoColor=white" alt="Cline" />
   <img src="https://img.shields.io/badge/Zed-000000?style=for-the-badge&logo=zed&logoColor=white" alt="Zed" />
   <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit" />
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
@@ -84,20 +84,10 @@
 ### Software, Design & Productivity
 
 <p>
-  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe CC" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=black" alt="Adobe Premiere Pro" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=black" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=black" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobecreativecloud&logoColor=white" alt="Adobe Creative Cloud" />
+  <img src="https://img.shields.io/badge/Microsoft_365-EA3E23?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365" />
   <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/Microsoft_365-EA3E23?style=for-the-badge&logo=microsoft365&logoColor=white" alt="Microsoft 365" />
-  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" alt="Microsoft Word" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
-  <img src="https://img.shields.io/badge/Microsoft_PowerPoint-C43E1C?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Microsoft PowerPoint" />
-  <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="Microsoft Teams" />
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Microsoft Outlook" />
-  <img src="https://img.shields.io/badge/Microsoft_OneNote-7719AA?style=for-the-badge&logo=microsoftonenote&logoColor=white" alt="Microsoft OneNote" />
 </p>
 
 </div>
