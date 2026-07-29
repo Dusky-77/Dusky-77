@@ -54,7 +54,8 @@
 
 ### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/layer-group.svg" width="20" height="20"> Platforms, DevTools & Infrastructure
 
-<p align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,bash,r,git,mysql,mongodb,discordbots,nodejs,express,vscode,idea,cloudflare,vercel,replit"/>
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/GitHub-0b0a12?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white" alt="VS Code" />
