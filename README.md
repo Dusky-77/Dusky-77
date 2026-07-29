@@ -88,7 +88,7 @@
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Consistency Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" width="60%"/>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Profile Stats:
