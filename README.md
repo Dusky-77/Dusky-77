@@ -29,8 +29,8 @@
   <img src="https://img.shields.io/badge/Go-00a7d0?style=for-the-badge&logo=go&logoColor=black" alt="Go" />
 </p>
 
+### Frameworks & Libraries
 <p align="left">
-  <strong>Frameworks & Libraries:</strong><br>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
