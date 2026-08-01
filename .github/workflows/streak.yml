@@ -1,8 +1,7 @@
 name: Update Streak Stats
-
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'   # daily at midnight UTC
   workflow_dispatch:
 
 permissions:
@@ -14,9 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch Streak SVG
-        run: |
-          curl -s "https://github-readme-streak-stats.herokuapp.com?user=Dusky-77&theme=rust-ferris-dark&hide_border=true" -o streak.svg
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=Dusky-77&theme=rust-ferris-dark&hide_border=true
+          path: streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push
         run: |
