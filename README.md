@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dusky-77&style=flat-square&color=00e5ff" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dusky-77&style=flat-square&color=00e5ff&labelColor=00e5ff" alt="Profile Views" />
 </div>
 
 <div align="center">
