@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/Go-00a9d2?style=for-the-badge&logo=go&logoColor=black" alt="Go" />
 </p>
 
-<img src="https://ghstats.dev/api/langs?username=Dusky-77&theme=gruvbox&hide_border=true&bg=000000&title_color=f47000&icon_colorf66200&hide_title=true&max_langs=12&layout=horizontal_list" width="60%"/>
+<img src="https://ghstats.dev/api/langs?username=Dusky-77&theme=ocean&hide_border=true&bg=000000&title_color=00a5dc&icon_color=00e5ff&hide_title=true&max_langs=12&layout=horizontal_list" width="60%"/>
 
 ### Frameworks & Libraries
 
