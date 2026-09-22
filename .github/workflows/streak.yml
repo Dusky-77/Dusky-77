@@ -17,7 +17,7 @@ jobs:
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          options: user=Dusky-77&theme=rosepine&hide_border=true
+          options: user=Dusky-77&theme=rosepine&hide_border=true&bg=000000
           path: streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
