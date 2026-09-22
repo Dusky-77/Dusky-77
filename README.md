@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dusky-77&style=flat-square&color=00e5ff&labelColor=00e5ff" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Dusky-77&style=flat-square&color=00e5ff&labelColor=9d9191" alt="Profile Views" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&pause=1000&color=00e5ff&vCenter=true&random=true&width=435&lines=Building+backends+and+custom+automations.;I+build+backends%2C+automations%2C+and+integrations.;Backend+systems+and+custom+automation+tools.;Engineering+backends+and+automated+systems." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lilita+One&pause=1000&color=9d9191&vCenter=true&random=true&width=435&lines=Building+backends+and+custom+automations.;I+build+backends%2C+automations%2C+and+integrations.;Backend+systems+and+custom+automation+tools.;Engineering+backends+and+automated+systems." alt="Typing SVG" /></a>
 </div>
 
 <br>
