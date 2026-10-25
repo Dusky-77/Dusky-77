@@ -110,9 +110,11 @@
   <img src="https://ghstats.dev/api/card?username=Dusky-77&theme=rosepine&bg=000000&hide_border=true&border_radius=50&hide=streak%2Cgrade%2Cfollowers%2Cstars%2Ccontributions&max_langs=8" width="55%"/>
 </div>
 
-## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Activity Graph:
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Activity Graph
 
-![Dusky-77's Activity Graph](https://githubusercontent.com)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dusky-77/Dusky-77/main/activity-graph.svg" width="100%" alt="Activity Graph"/>
+</div>
 
 
 ---
