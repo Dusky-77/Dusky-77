@@ -112,9 +112,7 @@
 
 ## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/chart-line.svg" width="20" height="20"> Activity Graph:
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dusky-77&bg_color=000000&color=9d9191&line=cdcfcf&point=a57db3&area=true&hide_border=true" width="100%"/>
-</div>
+![Dusky-77's Activity Graph](https://githubusercontent.com)
 
 
 ---
